@@ -1,0 +1,28 @@
+{
+  "name": "import-fullcalendar",
+  "version": "1.0.0",
+  "authors": [
+    "Jalal Fathi <jfathi.mail@gmail.com> (http://jalal.io)"
+  ],
+  "description": "The import element of the fullcalendar library.",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "fullcalendar",
+    "import"
+  ],
+  "main": "import-fullcalendar.html",
+  "license": "http://polymer.github.io/LICENSE.txt",
+  "homepage": "https://github.com/JaySunSyn/import-fullcalendar.git",
+  "ignore": [
+    "/.*",
+    "/test/",
+    "/demo/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.0.0",
+    "fullcalendar": "^2.7.3"
+  },
+  "devDependencies": {}
+}
